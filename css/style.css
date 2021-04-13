@@ -1397,6 +1397,28 @@ blockquote {
 
 
 
+    .pb-video-container {
+        padding-top: 20px;
+        background: green;
+        font-family: Lato;
+    }
+
+    .pb-video {
+        border: 1px solid green;
+    }
+
+        .pb-video:hover {
+            background: green;
+        }
+
+    .pb-video-frame {
+        transition: width .3s, height .3s;
+    }
+
+        .pb-video-frame:hover {
+            height: 300px;
+        }
+
 
 
 
