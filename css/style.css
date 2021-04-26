@@ -212,6 +212,7 @@ button:focus{
 	background:green;
 }
 
+
 /*------------------------------------------------------------------
     Slider
 -------------------------------------------------------------------*/
@@ -1418,6 +1419,9 @@ blockquote {
         .pb-video-frame:hover {
             height: 300px;
         }
+
+    .f .fa{transition: 0.3s;}
+    .f .fa:hover{width: 80px; height: 80px;}
 
 
 
